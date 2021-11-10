@@ -12,11 +12,13 @@ public class main {
     */
 
     public static void main saludoBucle(){
-        System.out.println("Hola mundo");
-        System.out.println("Hola mundo");
-        System.out.println("Hola mundo");
-        System.out.println("Hola mundo");
-        System.out.println("Hola mundo");
+        int i =0;
+
+        while(i<5){
+           System.out.println("Hola mundo"); 
+           i++;
+        }
+
     }
 
     /*
